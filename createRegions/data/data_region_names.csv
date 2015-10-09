@@ -1,0 +1,917 @@
+name,lon,lat,sess,device
+Indiana,-86.1746933,40.3270127,2290,desktop
+England,-0.540240236617,52.7954791,1239,desktop
+California,-118.7559974,36.7014631,1063,desktop
+New York,-73.9865812,40.7305991,849,desktop
+Karnataka,75.7223521,14.5203896,557,desktop
+Texas,-99.5120986,31.8160381,518,desktop
+Illinois,-89.4339809,40.0796319,509,desktop
+Maharashtra,76.0554568,19.531932,423,desktop
+Florida,-81.4639835,27.7567667,362,desktop
+Massachusetts,-72.032366,42.3788774,328,desktop
+Ontario,-86.0000001,50.0000002,297,desktop
+Pennsylvania,-77.7278831,40.9699889,290,desktop
+Virginia,-78.4927721,37.1232245,273,desktop
+Delhi,77.2272603,28.6572914,272,desktop
+North Carolina,-79.0392919,35.6729639,270,desktop
+New Jersey,-74.4041622,40.0757384,266,desktop
+Indiana,-86.1746933,40.3270127,256,mobile
+Tamil Nadu,78.3665347,10.9094334,251,desktop
+Georgia,-83.1137366,32.3293809,234,desktop
+Ohio,-82.6881395,40.2253569,223,desktop
+Michigan,-84.6824346,43.6211955,221,desktop
+Colorado,-105.6077167,38.7251776,213,desktop
+Maryland,-76.9382069,39.5162234,194,desktop
+Telangana,79.1151663,17.8495919,182,desktop
+Washington,-77.0366456,38.8949549,178,desktop
+Ile-de-France,2.5670187,48.5716633,161,desktop
+Uttar Pradesh,80.859666,27.1303344,161,desktop
+Minnesota,-94.6113288,45.9896587,153,desktop
+Tennessee,-86.2820081,35.7730076,134,desktop
+Missouri,-92.5617875,38.7604815,132,desktop
+Wisconsin,-89.6884637,44.4308975,129,desktop
+Arizona,-111.7632755,34.395342,124,desktop
+District of Columbia,-77.0366456,38.8949549,115,desktop
+New South Wales,147.2869493,-31.8759835,115,desktop
+Connecticut,-72.7342163,41.6500201,112,desktop
+Metro Manila,121.039315543,14.5669327,110,desktop
+Oregon,-120.737257,43.9792797,108,desktop
+Delhi,77.2272603,28.6572914,107,mobile
+California,-118.7559974,36.7014631,103,mobile
+England,-0.540240236617,52.7954791,102,mobile
+Bavaria,11.4038717,48.9467562,98,desktop
+North Rhine-Westphalia,7.5533645,51.4785568,97,desktop
+Utah,-111.7143584,39.4225192,91,desktop
+Illinois,-89.4339809,40.0796319,90,mobile
+New York,-73.9865812,40.7305991,89,mobile
+Dublin City,-6.28104501853,53.35452415,88,desktop
+Quebec,-72.0,54.0,85,desktop
+Victoria,144.6780052,-36.5986096,82,desktop
+British Columbia,-125.0,55.0,80,desktop
+Gauteng,28.0813105,-25.9363439,80,desktop
+Iowa,-93.3122705,41.9216734,79,desktop
+Capital Region of Denmark,12.3136721669,55.86163965,78,desktop
+Gujarat,71.9329241,23.1923325,78,desktop
+North Holland,4.95206337708,52.69012615,76,desktop
+Tel Aviv District,34.8071431648,32.09492,76,desktop
+Kentucky,-85.1551411,37.5726028,75,desktop
+Haryana,76.0,29.0,74,desktop
+Scotland,-4.1140518,56.7861112,74,desktop
+South Carolina,-80.4363743,33.6874388,74,desktop
+West Bengal,87.6855882,22.9964948,72,desktop
+Stockholm County,18.0710935,59.3251172,70,desktop
+Indiana,-86.1746933,40.3270127,69,tablet
+Alabama,-86.8295337,33.2588817,68,desktop
+Selangor,101.304146,3.2083304,66,desktop
+Arkansas,-92.4479108,35.2048883,63,desktop
+Texas,-99.5120986,31.8160381,61,mobile
+Punjab,75.5004841,30.9293211,60,desktop
+Western Australia,121.0187246,-25.2303005,57,desktop
+Florida,-81.4639835,27.7567667,56,mobile
+Community of Madrid,-3.77156267545,40.5248319,55,desktop
+Zurich,8.5404434,47.3685586,55,desktop
+Kerala,76.5119752,10.3529588,54,desktop
+Maharashtra,76.0554568,19.531932,54,mobile
+Alberta,-114.9999999,55.0,52,desktop
+South Holland,4.39281137854,51.98814685,51,desktop
+Hesse,9.1909725,50.6118537,50,desktop
+Lombardy,9.768893,45.6209,50,desktop
+Dubai,55.2961962,25.2683521,48,desktop
+Kansas,-98.5821872,38.27312,48,desktop
+New Hampshire,-71.6553992,43.4849133,47,desktop
+Oklahoma,-97.2684063,34.9550817,47,desktop
+Catalonia,1.5745043,41.8523094,46,desktop
+Queensland,144.4588889,-21.9182856,46,desktop
+Western Cape,20.72753,-33.546977,46,desktop
+Baden-Wurttemberg,9.1949534,48.6296972,45,desktop
+Louisiana,-92.007126,30.8703881,43,desktop
+Moscow,37.6187042,55.7516335,43,desktop
+Bangkok,100.416086602,13.5859219,42,desktop
+Ho Chi Minh,106.7017555,10.7758439,42,desktop
+Rajasthan,73.7684549,26.8105777,42,desktop
+Pennsylvania,-77.7278831,40.9699889,40,mobile
+Karnataka,75.7223521,14.5203896,39,mobile
+New Mexico,-105.993007,34.5708167,39,desktop
+State of Sao Paulo,-99.0120081,19.5877513,39,desktop
+Berlin,13.3888599,52.5170365,37,desktop
+Wales,-3.73893,52.2928116,37,desktop
+England,-0.540240236617,52.7954791,36,tablet
+Georgia,-83.1137366,32.3293809,36,mobile
+Nebraska,-99.5873816,41.7370229,36,desktop
+Bucharest,26.1027436,44.436139,35,desktop
+Lazio,12.7662312,41.9808038,35,desktop
+Michigan,-84.6824346,43.6211955,35,mobile
+Brussels,4.36720169448,50.84404145,34,desktop
+Kentucky,-85.1551411,37.5726028,33,mobile
+Prague,14.4212556,50.0874401,33,desktop
+Attica,23.6042580208,37.03063665,32,desktop
+Federal District,-99.1517009708,19.32055625,32,desktop
+Hanoi,105.85247,21.0292095,30,desktop
+Istanbul,28.9651646,41.0096334,30,desktop
+Masovian Voivodeship,21.2073404,52.5461934,30,desktop
+Oslo,10.7391112,59.9132694,30,desktop
+Sindh,69.0,25.5,30,desktop
+Vilnius County,25.236244,54.5491756,30,desktop
+Tokyo,139.294774527,34.2255804,29,desktop
+Budapest,19.0404707,47.4983815,28,desktop
+Lisbon,-9.1380056,38.7130574,28,desktop
+Maine,-68.8590201,45.709097,28,desktop
+Northern Ireland,-6.56343520969,54.65688285,28,desktop
+Utrecht,5.1276803155,52.08095165,28,desktop
+California,-118.7559974,36.7014631,27,tablet
+Vienna,16.3725042,48.2083537,27,desktop
+Ohio,-82.6881395,40.2253569,26,mobile
+Saint Petersburg,30.3153628,59.9393657,26,desktop
+Seoul,126.9782914,37.5666791,26,desktop
+Nord-Pas-de-Calais,2.7578982,50.4832487,25,desktop
+Colorado,-105.6077167,38.7251776,24,mobile
+Nevada,-116.8537227,39.5158825,24,desktop
+North Carolina,-79.0392919,35.6729639,24,mobile
+Rhone-Alpes,5.6874625,45.3886264,24,desktop
+Hamburg,10.000654,53.5503414,23,desktop
+Mississippi,-89.7348497,32.9715645,23,desktop
+Central Visayas,123.996810486,10.30231135,22,desktop
+District of Columbia,-77.0366456,38.8949549,22,mobile
+Flemish Brabant,4.78880408925,50.8689464,22,desktop
+Madhya Pradesh,78.281079,23.1145333,22,desktop
+Provence-Alpes-Cote d'Azur,6.0638506,44.0580563,22,desktop
+Santiago Metropolitan Region,121.0009413,14.546308,22,desktop
+Hawaii,-157.975203,21.2160437,21,desktop
+Lesser Poland Voivodeship,20.3793521,49.790952,21,desktop
+Louisiana,-92.007126,30.8703881,21,mobile
+Rhode Island,-71.5992372,41.7962409,21,desktop
+Virginia,-78.4927721,37.1232245,21,mobile
+Andhra Pradesh,80.1863809,15.9240905,20,desktop
+Bratislava Region,17.1597440625,48.1359085,20,desktop
+Idaho,-114.0154071,43.6447642,20,desktop
+North Brabant,5.0370354561,51.5259565,20,desktop
+Vastra Gotaland County,14.5308990025,57.2009243,20,desktop
+City of Zagreb,15.9821459938,45.7918265,19,desktop
+Kyiv city,30.4713605,50.3876531,19,desktop
+Lower Saxony,9.8456838,52.6368397,19,desktop
+Maryland,-76.9382069,39.5162234,19,mobile
+Pays de la Loire,-0.8186143,47.6594864,19,desktop
+Calabarzon,121.353652374,14.16441485,18,desktop
+New Jersey,-74.4041622,40.0757384,18,mobile
+Riyadh Province,46.040556,24.063056,18,desktop
+Skane County,-6.572311,53.5087228,18,desktop
+Sofia-city,23.3225964,42.6977211,18,desktop
+Tamil Nadu,78.3665347,10.9094334,18,mobile
+Valencian Community,-0.7654406,39.6819591,18,desktop
+Vermont,-72.5002608,44.5990718,18,desktop
+West Virginia,-80.8408415,38.4758406,18,desktop
+Delaware,-75.4013315,38.6920451,17,desktop
+Groningen,6.55824541648,53.22179255,17,desktop
+Montana,-109.6387579,47.3752671,17,desktop
+Tehran,51.4223519,35.686172,17,desktop
+Antwerp,4.3997081,51.2211097,16,desktop
+Bogota,-74.0760867,4.5980478,16,desktop
+Central Denmark Region,9.23462700705,56.2356848,16,desktop
+Chandigarh,76.7705033208,30.7351539,16,desktop
+Hordaland,6.200034,60.2501712,16,desktop
+Vaud,6.5320717,46.6356963,16,desktop
+Brittany,-2.9202408,48.2640845,15,desktop
+Gelderland,6.08451047711,52.12760175,15,desktop
+Geneva,6.1466014,46.2017559,15,desktop
+Johor,103.446608,2.0119217,15,desktop
+Metro Manila,121.039315543,14.5669327,15,mobile
+Midi-Pyrenees,1.5685814,43.8324972,15,desktop
+New South Wales,147.2869493,-31.8759835,15,mobile
+Washington,-77.0366456,38.8949549,15,mobile
+East Flanders,3.81182750467,51.0375423,14,desktop
+Illinois,-89.4339809,40.0796319,14,tablet
+KwaZulu-Natal,30.8875009,-28.503833,14,desktop
+Lagos,103.378253,20.0171109,14,desktop
+Lviv Oblast,24.2337089,50.1594016,14,desktop
+Massachusetts,-72.032366,42.3788774,14,mobile
+Alaska,-149.680909,64.4459613,13,desktop
+Auckland,174.7655514,-36.8534665,13,desktop
+Autonomous City of Buenos Aires,-58.4459789,-34.612869,13,desktop
+Connecticut,-72.7342163,41.6500201,13,mobile
+Emilia-Romagna,11.039437,44.525696,13,desktop
+Languedoc-Roussillon,3.0314215,43.2896315,13,desktop
+Lower Silesian Voivodeship,16.4330936,51.3807987,13,desktop
+North Dakota,-100.540737,47.6201461,13,desktop
+Ontario,-86.0000001,50.0000002,13,mobile
+Rhineland-Palatinate,7.4396553,49.7497346,13,desktop
+Sor-Trondelag,10.4810573,63.1275124,13,desktop
+South Australia,135.6301212,-30.5343665,13,desktop
+Veneto,11.8665254,45.6476663,13,desktop
+Andalusia,-4.5811614,37.3399964,12,desktop
+Arizona,-111.7632755,34.395342,12,mobile
+Harju County,24.7372599593,59.40821635,12,desktop
+Iowa,-93.3122705,41.9216734,12,mobile
+Penang,100.2559077,5.4065013,12,desktop
+Saxony,13.4585052,50.9295798,12,desktop
+Taipei City,121.5637,25.0375167,12,desktop
+West Bengal,87.6855882,22.9964948,12,mobile
+Aquitaine,-0.5391713,44.3571841,11,desktop
+Cairo Governorate,31.5634642884,30.03496615,11,desktop
+Center District,34.9167435768,32.08511765,11,desktop
+Islamabad Capital Territory,73.166667,33.666667,11,desktop
+New York,-73.9865812,40.7305991,11,tablet
+Region Syddanmark,9.13192766794,55.3784583,11,desktop
+Silesian Voivodeship,19.2343995,50.5687422,11,desktop
+South Dakota,-100.348761,44.6471761,11,desktop
+State of Minas Gerais,-44.5692037551,-19.83837335,11,desktop
+Tuscany,11.1389204,43.4586541,11,desktop
+Wisconsin,-89.6884637,44.4308975,11,mobile
+Alsace,7.3795231,48.183541,10,desktop
+Cluj County,23.5900604,46.7693367,10,desktop
+Gyeonggi-do,127.1033484,37.2700459,10,desktop
+Ljubljana,14.5068921,46.049865,10,desktop
+Minnesota,-94.6113288,45.9896587,10,mobile
+State of Rio de Janeiro,-43.2357857573,-22.91108225,10,desktop
+Telangana,79.1151663,17.8495919,10,mobile
+Alabama,-86.8295337,33.2588817,9,mobile
+Basque Country,-2.5543023,42.9911816,9,desktop
+Canton of Bern,7.451075,46.9482451,9,desktop
+Gauteng,28.0813105,-25.9363439,9,mobile
+Guangdong,113.1982688,23.1357694,9,desktop
+Kansas,-98.5821872,38.27312,9,mobile
+Limassol,33.042341,34.6735637,9,desktop
+Nova Scotia,-62.9999999,45.0000002,9,desktop
+Odisha,84.6897321,20.5431241,9,desktop
+Oregon,-120.737257,43.9792797,9,mobile
+Porto District,38.0743392,44.5668121,9,desktop
+Queensland,144.4588889,-21.9182856,9,mobile
+Special Region of Yogyakarta,110.4021745,-7.8697613,9,desktop
+Texas,-99.5120986,31.8160381,9,tablet
+Upper Austria,14.0,48.25,9,desktop
+Abu Dhabi,54.3705762,24.4747961,8,desktop
+Ankara,32.853758,39.9220794,8,desktop
+Campania,14.843984,40.860672,8,desktop
+Michigan,-84.6824346,43.6211955,8,tablet
+Missouri,-92.5617875,38.7604815,8,mobile
+North Holland,4.95206337708,52.69012615,8,mobile
+Perak,100.9276057,4.7916539,8,desktop
+Piedmont,-122.231635,37.8243715,8,desktop
+Scotland,-4.1140518,56.7861112,8,mobile
+Selangor,101.304146,3.2083304,8,mobile
+West Flanders,2.99716102523,51.0402755,8,desktop
+Wyoming,-107.5685348,43.1700264,8,desktop
+Australian Capital Territory,148.9464218,-35.4021016,7,desktop
+British Columbia,-125.0,55.0,7,mobile
+Central Luzon,120.685699512,15.39091185,7,desktop
+Cork City,-2.36249647069,51.38050845,7,desktop
+East Java,113.980045372,-6.96851055,7,desktop
+Florida,-81.4639835,27.7567667,7,tablet
+Jalisco,-103.6666671,20.3333331,7,desktop
+Limburg,5.86721779651,51.26441545,7,desktop
+Makkah Province,49.9842745,26.2401534,7,desktop
+Manitoba,-97.0000001,55.0000001,7,desktop
+Metropolitan City of Milan,85.3422184,27.678254,7,desktop
+New Brunswick,-66.75,46.5,7,desktop
+Newfoundland and Labrador,-56.0000001,52.0000002,7,desktop
+North Denmark Region,9.7273307727,56.8152793,7,desktop
+Punjab,75.5004841,30.9293211,7,mobile
+Sarawak,113.646867,2.3926225,7,desktop
+Schleswig-Holstein,9.8220089,54.1853998,7,desktop
+South Carolina,-80.4363743,33.6874388,7,tablet
+State of Rio Grande do Sul,-51.1123591929,-29.98142385,7,desktop
+West Java,107.6404716,-6.8891692,7,desktop
+Beijing,116.3913489,39.9059093,6,desktop
+Burgas,27.4550161,42.4942274,6,desktop
+Castile and Leon,-4.7471726,41.8037172,6,desktop
+Davao Region,121.0263918,14.6619439,6,desktop
+Federation of Bosnia and Herzegovina,17.5501751459,43.9170779,6,desktop
+Haifa District,34.9850882301,32.62564005,6,desktop
+Kedah,100.6660103,5.9682875,6,desktop
+Nevada,-116.8537227,39.5158825,6,mobile
+Ontario,-86.0000001,50.0000002,6,tablet
+Sabah,117.0051734,5.595237,6,desktop
+Shanghai,121.4888922,31.2253441,6,desktop
+South Holland,4.39281137854,51.98814685,6,mobile
+Tennessee,-86.2820081,35.7730076,6,mobile
+Utah,-111.7143584,39.4225192,6,mobile
+Vasterbotten County,22.137619,65.5818293,6,desktop
+Victoria,144.6780052,-36.5986096,6,mobile
+West Virginia,-80.8408415,38.4758406,6,mobile
+Apulia,16.621036,40.984266,5,desktop
+Assam,93.2551303,26.4073841,5,desktop
+Basel-Stadt,7.5927728,47.5579097,5,desktop
+Bihar,85.906508,25.6440845,5,desktop
+Brandenburg,13.2461296,52.8455492,5,desktop
+Bremen,8.8071646,53.0758196,5,desktop
+Burgundy,4.2523237,47.0151891,5,desktop
+Cagayan Valley,121.889029821,17.677229,5,desktop
+Chhattisgarh,81.8096116,21.4895849,5,desktop
+Da Nang,108.2119396,16.0679814,5,desktop
+Dnipropetrovsk Oblast,34.9501715,48.662589,5,desktop
+Eastern Province,81.5954591948,7.7475,5,desktop
+Federal Capital Territory,7.1724673,8.8311228,5,desktop
+Friuli-Venezia Giulia,13.055904,46.151042,5,desktop
+Gavleborg County,17.1502178109,60.6737695,5,desktop
+Hawaii,-157.975203,21.2160437,5,mobile
+Himachal Pradesh,77.1828462,31.9292352,5,desktop
+Johor,103.446608,2.0119217,5,mobile
+Kentucky,-85.1551411,37.5726028,5,tablet
+Khyber Pakhtunkhwa,72.0,34.5,5,desktop
+Kosice Region,21.2496774,48.7172272,5,desktop
+Kwara,4.6688487,8.8367891,5,mobile
+Liguria,8.7026296,44.4777617,5,desktop
+Lodz Voivodeship,19.3460637,51.4721678,5,desktop
+Lubusz Voivodeship,15.3605075,52.1001754,5,desktop
+New Jersey,-74.4041622,40.0757384,5,tablet
+North Sumatra,99.3812201,2.1923519,5,desktop
+Nuevo Leon,-99.8873,26.2384363,5,desktop
+Oklahoma,-97.2684063,34.9550817,5,mobile
+Pennsylvania,-77.7278831,40.9699889,5,tablet
+Pest County,19.3449835,47.3716234,5,desktop
+Primorje-Gorski Kotar County,14.6172032,45.4225937,5,desktop
+Quebec,-72.0,54.0,5,mobile
+Region Zealand,11.6866635003,55.48635875,5,desktop
+Rogaland,5.9357964,59.1585024,5,desktop
+Saskatchewan,-106.0,54.0,5,desktop
+Sicily,14.155048,37.587794,5,desktop
+South Carolina,-80.4363743,33.6874388,5,mobile
+St. Gallen,9.3765878,47.4250593,5,desktop
+Tasmania,146.6366887,-42.035067,5,desktop
+Timis County,21.6321587924,45.690801,5,desktop
+Trentino-Alto Adige/South Tyrol,11.2296438655,46.65596895,5,desktop
+Uppsala County,17.64112,59.8594126,5,desktop
+Uttarakhand,79.089691,30.0417376,5,desktop
+Virginia,-78.4927721,37.1232245,5,tablet
+Western Cape,20.72753,-33.546977,5,mobile
+Western Visayas,122.55441094,11.1086753,5,desktop
+Andhra Pradesh,80.1863809,15.9240905,4,mobile
+Asturias,123.71931,10.5632607,4,desktop
+Bay Of Plenty,176.938287362,-37.9503755,4,desktop
+Busan,129.0625899,35.1853168,4,desktop
+Canary Islands,-16.6218402966,28.2935785,4,desktop
+Champagne-Ardenne,4.3128168,48.3705824,4,desktop
+Chandigarh,76.7705033208,30.7351539,4,mobile
+Daejeon,127.3845762,36.3326329,4,desktop
+Dubai,55.2961962,25.2683521,4,tablet
+Eastern Cape,26.6386401,-32.2171831,4,desktop
+Flevoland,5.46677201583,52.54834715,4,desktop
+Galati,28.0549395,45.4338215,4,desktop
+Goa,74.0855134,15.3004543,4,desktop
+Greater Poland Voivodeship,17.397672,52.1458506,4,desktop
+Halland County,0.1346836,50.9286852,4,desktop
+Iasi County,27.5840504,47.161494,4,desktop
+Ile-de-France,2.5670187,48.5716633,4,mobile
+Iowa,-93.3122705,41.9216734,4,tablet
+Isle of Man,-4.5591148,54.1936805,4,desktop
+Kanagawa Prefecture,133.933671,34.792604,4,desktop
+Kaohsiung City,120.3120375,22.6203348,4,desktop
+Karnataka,75.7223521,14.5203896,4,tablet
+Lagos,103.378253,20.0171109,4,mobile
+Lombardy,9.768893,45.6209,4,mobile
+Makkah Province,49.9842745,26.2401534,4,mobile
+Maribor,15.64477,46.555628,4,desktop
+Mississippi,-89.7348497,32.9715645,4,mobile
+New Hampshire,-71.6553992,43.4849133,4,tablet
+New South Wales,147.2869493,-31.8759835,4,tablet
+Novosibirsk Oblast,79.4813924,54.9720169,4,desktop
+Overijssel,6.38166288614,52.4861137,4,desktop
+Pichincha,-78.3284371,-0.0584893,4,desktop
+Pomeranian Voivodeship,17.9057338,54.143148,4,desktop
+Province of Namur,4.8418926,50.4613368,4,desktop
+Rabat-Sale-Zemmour-Zaer,-6.87973419414,33.9654821,4,desktop
+Saarland,6.9805789,49.4173988,4,desktop
+Saxony-Anhalt,11.4939134,51.908526,4,desktop
+State of Mexico,-99.6899716,19.4839446,4,desktop
+Tamaulipas,-98.7026825,23.9891553,4,desktop
+Tennessee,-86.2820081,35.7730076,4,tablet
+Troms,18.858492,68.8246463,4,desktop
+Vasternorrland County,17.9235996382,62.64526165,4,desktop
+Vastra Gotaland County,14.5308990025,57.2009243,4,mobile
+Zlin Region,17.6667415,49.226766,4,desktop
+Akershus,11.1341428,59.7949478,3,desktop
+Alberta,-114.9999999,55.0,3,mobile
+Bacs-Kiskun,19.5128532,46.5809294,3,desktop
+Baden-Wurttemberg,9.1949534,48.6296972,3,mobile
+Bali,2.3521334,48.8565056,3,desktop
+Balochistan,66.0,28.0,3,desktop
+Brasov County,25.6101941,45.652628,3,desktop
+Cairo Governorate,31.5634642884,30.03496615,3,mobile
+Canterbury,171.809844758,-43.49417605,3,desktop
+Capital Region of Denmark,12.3136721669,55.86163965,3,mobile
+Chelyabinsk Oblast,61.1865846,54.4223954,3,desktop
+Chiang Mai,98.9880846,18.7905657,3,desktop
+City of Zagreb,15.9821459938,45.7918265,3,mobile
+Community of Madrid,-3.77156267545,40.5248319,3,tablet
+Constanta County,28.6213915923,44.173005,3,desktop
+Daegu,128.5586643,35.8404121,3,desktop
+Dublin City,-6.28104501853,53.35452415,3,mobile
+Fars,53.218456,29.299051,3,desktop
+Friesland,5.59859730509,53.1524736,3,desktop
+Georgia,-83.1137366,32.3293809,3,tablet
+Gujarat,71.9329241,23.1923325,3,mobile
+Hainaut,4.12517317863,50.3624612,3,desktop
+Hsinchu County,121.0128333,24.8267,3,desktop
+Hyogo Prefecture,134.860666,34.914934,3,desktop
+Idaho,-114.0154071,43.6447642,3,mobile
+Jerusalem District,35.0655313318,31.7427766,3,desktop
+Jharkhand,85.2557301,23.4559809,3,desktop
+Jonkoping County,14.1627579,57.7814709,3,desktop
+Kalmar County,16.3662382,56.6628826,3,desktop
+Kaunas County,23.8693418,55.1017737,3,desktop
+Komarom-Esztergom,18.3335459,47.6117055,3,desktop
+Kwara,4.6688487,8.8367891,3,desktop
+Liege,5.5734203,50.6451381,3,desktop
+Lima,-76.833333,-12.0,3,desktop
+Lorraine,6.1999334,48.8360858,3,desktop
+Lower Austria,15.7632457,48.2817813,3,desktop
+Madhya Pradesh,78.281079,23.1145333,3,mobile
+Maharashtra,76.0554568,19.531932,3,tablet
+Marche,13.1415872,43.3458388,3,desktop
+Massachusetts,-72.032366,42.3788774,3,tablet
+Mecklenburg-Vorpommern,12.5755746,53.7735234,3,desktop
+Moscow Oblast,38.0353929,55.5043158,3,desktop
+Mykolaivs'ka oblast,35.0368393,48.4296711,3,desktop
+Nebraska,-99.5873816,41.7370229,3,mobile
+New Mexico,-105.993007,34.5708167,3,mobile
+North Carolina,-79.0392919,35.6729639,3,tablet
+North Rhine-Westphalia,7.5533645,51.4785568,3,mobile
+Odessa Oblast,29.9567193,46.1147226,3,desktop
+Oklahoma,-97.2684063,34.9550817,3,tablet
+Olomouc Region,16.9561108969,49.85911765,3,desktop
+Opole Voivodeship,17.9321175,50.8918612,3,desktop
+Orebro County,14.9879313931,59.37790715,3,desktop
+Ostergotland County,16.0256670265,58.32731925,3,desktop
+Plovdiv Province,24.6977886,42.2424104,3,desktop
+Poitou-Charentes,-0.0772029,46.0743923,3,desktop
+Prague,14.4212556,50.0874401,3,mobile
+Puducherry,79.9752370356,10.90253775,3,desktop
+Riau,101.5475811,0.5004112,3,desktop
+Rostov Oblast,40.7957942,47.6222451,3,desktop
+Salzburg,13.0410592,47.8001977,3,desktop
+Sardinia,9.0305773,40.0912813,3,desktop
+Sindh,69.0,25.5,3,mobile
+Skane County,-6.572311,53.5087228,3,mobile
+Split-Dalmatia County,16.4787759,43.3898751,3,desktop
+State of Santa Catarina,-99.4963061,19.3995585,3,desktop
+State of Sao Paulo,-99.0120081,19.5877513,3,mobile
+Stockholm County,18.0710935,59.3251172,3,mobile
+Swietokrzyskie,21.8201452,49.5734686,3,desktop
+Tartu County,26.7237528,58.3727059,3,desktop
+Telemark,8.2011188,59.7479956,3,desktop
+Thuringia,11.0747905,50.7333163,3,desktop
+Tokyo,139.294774527,34.2255804,3,mobile
+Tyrol,11.5261028,47.223193,3,desktop
+Uttar Pradesh,80.859666,27.1303344,3,mobile
+Varmland County,-81.8113909,41.243011,3,desktop
+Vestfold,10.055836,59.3691606,3,desktop
+Victoria,144.6780052,-36.5986096,3,tablet
+Wisconsin,-89.6884637,44.4308975,3,tablet
+Abruzzo,13.854983,42.227681,2,desktop
+Akwa Ibom,7.8412267,4.9408638,2,desktop
+Akwa Ibom,7.8412267,4.9408638,2,mobile
+Aquitaine,-0.5391713,44.3571841,2,mobile
+Arkansas,-92.4479108,35.2048883,2,mobile
+Atlantico,-75.0000086,10.7500084,2,desktop
+Auckland,174.7655514,-36.8534665,2,mobile
+Auvergne,3.197012,45.3547354,2,desktop
+Aveiro District,-48.0793695561,-15.860204,2,desktop
+Baja California,-115.1425107,30.0338923,2,desktop
+Banten,106.1375586,-6.4453801,2,desktop
+Banten,106.1375586,-6.4453801,2,mobile
+Bavaria,11.4038717,48.9467562,2,mobile
+Berlin,13.3888599,52.5170365,2,mobile
+Bihar,85.906508,25.6440845,2,mobile
+Bihor County,22.1961443881,46.9953186,2,desktop
+Borsod-Abauj-Zemplen,20.7459785,48.3107772,2,desktop
+Bucharest,26.1027436,44.436139,2,mobile
+Budapest,19.0404707,47.4983815,2,mobile
+Buenos Aires Province,-80.5221195,-2.3403438,2,desktop
+Buskerud,8.7526828,60.3148177,2,desktop
+Calabarzon,121.353652374,14.16441485,2,mobile
+Campeche,-90.5,19.0,2,desktop
+Castile-La Mancha,-2.6232332,39.4177902,2,desktop
+Central Denmark Region,9.23462700705,56.2356848,2,tablet
+Central Java,110.0044145,-7.3032412,2,desktop
+Central Luzon,120.685699512,15.39091185,2,mobile
+Centre,1.7324062,47.5490251,2,desktop
+Chachoengsao,101.588953754,13.573741,2,desktop
+Chihuahua,-106.0000001,28.5000001,2,desktop
+Chon Buri,100.9889619,13.3658434,2,desktop
+Chungcheongnam-do,126.7697247,36.478804,2,desktop
+Connecticut,-72.7342163,41.6500201,2,tablet
+County Donegal,-7.95231355274,54.92075415,2,desktop
+Csongrad,20.1457081,46.7097342,2,desktop
+Dalarna County,14.3585753,60.9508589,2,desktop
+Drenthe,6.68878518474,52.90800195,2,desktop
+Dubai,55.2961962,25.2683521,2,mobile
+East Java,113.980045372,-6.96851055,2,mobile
+Eastern Cape,26.6386401,-32.2171831,2,mobile
+Faro District,6.0808693,49.4802956,2,desktop
+Galicia,-7.863112,42.61946,2,desktop
+Galway City,-9.03783622475,53.2841506,2,desktop
+Gelderland,6.08451047711,52.12760175,2,mobile
+Guanajuato,-101.0,21.0,2,desktop
+Gujarat,71.9329241,23.1923325,2,tablet
+Gyor-Moson-Sopron,17.6346815,47.687609,2,desktop
+Hanoi,105.85247,21.0292095,2,mobile
+Hatay,36.0748022,36.3451332,2,desktop
+Hradec Kralove Region,15.832719,50.2094963,2,desktop
+Incheon,126.6057595,37.4966135,2,desktop
+Irkutsk Oblast,104.719221,56.6370122,2,desktop
+Izmir,27.144474,38.4153421,2,desktop
+Jiangsu,119.9999999,33.0000001,2,desktop
+Kedah,100.6660103,5.9682875,2,mobile
+Kharkiv Oblast,36.3788957,49.8299582,2,desktop
+Khon Kaen,102.683469579,16.3484688,2,desktop
+Khuzestan,49.0077168,31.5535141,2,desktop
+Koper,13.7304909,45.5479552,2,desktop
+Kronoberg County,14.7930300901,56.9253828,2,desktop
+Kuyavian-Pomeranian Voivodeship,18.4463517,53.0915932,2,desktop
+La Paz Department,-66.8159059,-10.9690231,2,desktop
+Liaoning,122.9955469,40.9975197,2,desktop
+Lower Normandy,-0.4382331,48.8177569,2,desktop
+Madhya Pradesh,78.281079,23.1145333,2,tablet
+Missouri,-92.5617875,38.7604815,2,tablet
+Nakhon Ratchasima,101.989879601,14.9481926,2,desktop
+Neamt County,26.485349584,46.99078285,2,desktop
+Negeri Sembilan,102.1683211,2.7474527,2,desktop
+Neuquen,-69.832275,-38.3695057,2,desktop
+New Brunswick,-66.75,46.5,2,tablet
+Nghe An,104.6765504,19.4114769,2,desktop
+Nograd County,19.5472495,47.9873616,2,desktop
+Nordland,14.3119733,66.8385732,2,desktop
+Norrbotten County,22.1560121,65.5838002,2,desktop
+North District,88.5,27.666667,2,desktop
+North Holland,4.95206337708,52.69012615,2,tablet
+Northern Ireland,-6.56343520969,54.65688285,2,mobile
+Northern Territory,133.2303375,-19.8516101,2,desktop
+Nova Scotia,-62.9999999,45.0000002,2,tablet
+Nuevo Leon,-99.8873,26.2384363,2,mobile
+Ohio,-82.6881395,40.2253569,2,tablet
+Oregon,-120.737257,43.9792797,2,tablet
+Osaka Prefecture,135.490357,34.6198813,2,desktop
+Osaka Prefecture,135.490357,34.6198813,2,mobile
+Oslo,10.7391112,59.9132694,2,mobile
+Pahang,102.5870951,3.6278466,2,mobile
+Panevezys County,24.7515027,56.0328935,2,desktop
+Picardy,2.8734069,49.5783487,2,desktop
+Puebla,-98.0,18.833333,2,desktop
+Ras al Khaimah,55.938232,25.7737705,2,desktop
+Region XII,17.1623683,48.1645156,2,desktop
+Rhode Island,-71.5992372,41.7962409,2,tablet
+Sabah,117.0051734,5.595237,2,mobile
+San Luis Potosi,-100.5000001,22.5000001,2,desktop
+Santa Fe Province,6.6744949,0.2854289,2,desktop
+Scotland,-4.1140518,56.7861112,2,tablet
+Setubal,-8.89632339723,38.51726965,2,desktop
+Shandong,118.9999999,36.0000001,2,desktop
+Sharjah,55.7954410161,25.21749685,2,desktop
+Sibiu,24.1519202,45.7973912,2,desktop
+Sonora,-110.6666671,29.3333331,2,desktop
+South Australia,135.6301212,-30.5343665,2,mobile
+St Helier,-2.1098279,49.1855551,2,tablet
+State of Parana,-99.0113384,19.5886029,2,desktop
+State of Santa Catarina,-99.4963061,19.3995585,2,mobile
+State of Sao Paulo,-99.0120081,19.5877513,2,tablet
+Styria,15.1666665,47.2500001,2,desktop
+Taichung City,120.6478282,24.163162,2,desktop
+Tainan City,120.336111153,23.1505151,2,desktop
+Taranaki,174.197350509,-39.3848063,2,desktop
+Tatarstan,50.6806005253,55.32628005,2,desktop
+Tel Aviv District,34.8071431648,32.09492,2,mobile
+Thurgau,9.1428769,47.5859649,2,desktop
+Ticino,8.753706,46.3356506,2,desktop
+Tomsk Oblast,82.0475315,58.6124279,2,desktop
+Trnava Region,15.9241436,49.2546831,2,desktop
+Upper Normandy,1.0438139,49.2566929,2,desktop
+Uttarakhand,79.089691,30.0417376,2,mobile
+Varna,27.9017131,43.2166104,2,desktop
+Vorarlberg,9.9166667,47.25,2,desktop
+Voronezh Oblast,40.1506507,50.9800393,2,desktop
+Vysocina Region,15.8529019,49.7699725,2,desktop
+Waikato,175.201032325,-37.77922715,2,desktop
+Wales,-3.73893,52.2928116,2,mobile
+Walloon Brabant,4.54991609108,50.66642895,2,desktop
+Washington,-77.0366456,38.8949549,2,tablet
+West Kalimantan,111.0968901,-0.1322387,2,desktop
+West Pomeranian Voivodeship,15.5661586,53.5450793,2,desktop
+Western Australia,121.0187246,-25.2303005,2,mobile
+Yaroslavl Oblast,39.0021095,57.7781976,2,desktop
+Zanjan,48.4835278,36.6682535,2,desktop
+Zaporiz'ka oblast,35.922969,47.4165079,2,desktop
+Zilina Region,18.7393139,49.2234674,2,desktop
+Zurich,8.5404434,47.3685586,2,mobile
+Aargau,8.1948321,47.412396,1,desktop
+Abu Dhabi,54.3705762,24.4747961,1,mobile
+Aichi Prefecture,137.254574,34.9991645,1,desktop
+Aichi Prefecture,137.254574,34.9991645,1,mobile
+Ajman,55.3619072487,25.5091287,1,desktop
+Al Qassim,43.466667,27.083333,1,desktop
+Alabama,-86.8295337,33.2588817,1,tablet
+Alaska,-149.680909,64.4459613,1,tablet
+Alba County,-2.7177425,56.0581477,1,desktop
+Alberta,-114.9999999,55.0,1,tablet
+Alexandria Governorate,29.7656450401,30.9432983,1,desktop
+Alexandria Governorate,29.7656450401,30.9432983,1,mobile
+Altai Krai,82.6931424,52.6932243,1,desktop
+Amur Oblast,128.437295,52.8032368,1,desktop
+Andalusia,-4.5811614,37.3399964,1,mobile
+Anhui,117.0,32.0,1,desktop
+Ankara,32.853758,39.9220794,1,mobile
+Ankara,32.853758,39.9220794,1,tablet
+Antalya,30.6937117,36.9008783,1,mobile
+Antioquia,-75.5000086,7.0000085,1,desktop
+Antioquia,-75.5000086,7.0000085,1,mobile
+Antofagasta Region,-69.0842783,-23.6041314,1,desktop
+Antwerp,4.3997081,51.2211097,1,tablet
+Aosta Valley,7.387426,45.730099,1,desktop
+Aragon,-0.7639373,41.3787291,1,desktop
+Aragua,-67.166667,10.0,1,desktop
+Arges County,24.8468676764,44.9929984,1,desktop
+Arizona,-111.7632755,34.395342,1,tablet
+Aswan Governorate,32.4239202,23.1046213,1,desktop
+Bacau County,26.9153557,46.5560493,1,desktop
+Baja California Sur,-111.5706164,25.5818014,1,desktop
+Balearic Islands,2.88043053264,39.6134018,1,desktop
+Balearic Islands,2.88043053264,39.6134018,1,mobile
+Bali,2.3521334,48.8565056,1,mobile
+Bangkok,100.416086602,13.5859219,1,mobile
+Banska Bystrica Region,19.1573494,48.7384028,1,desktop
+Baranya,22.32628,48.57021,1,desktop
+Basque Country,-2.5543023,42.9911816,1,tablet
+Bavaria,11.4038717,48.9467562,1,tablet
+Bay Of Plenty,176.938287362,-37.9503755,1,tablet
+Belgorod Oblast,37.5837615,50.7080119,1,desktop
+Berlin,13.3888599,52.5170365,1,tablet
+Bio-Bio,-72.219556,-36.9863166,1,mobile
+Blagoevgrad Province,23.3933849,41.7547856,1,desktop
+Blekinge County,15.333333,56.333333,1,desktop
+Braga,-8.4280044,41.5510583,1,desktop
+Bremen,8.8071646,53.0758196,1,mobile
+British Columbia,-125.0,55.0,1,tablet
+Budapest,19.0404707,47.4983815,1,tablet
+Bursa,29.0667635,40.1827061,1,desktop
+Ca Mau,105.1822931,9.2679829,1,desktop
+Cagayan Valley,121.889029821,17.677229,1,mobile
+Calabarzon,121.353652374,14.16441485,1,tablet
+Calabria,16.5249864,39.0565974,1,desktop
+Campania,14.843984,40.860672,1,mobile
+Campania,14.843984,40.860672,1,tablet
+Canary Islands,-16.6218402966,28.2935785,1,tablet
+Cantabria,-4.0878382,43.1595664,1,desktop
+Capital District,-66.9147206,10.5053491,1,desktop
+Carabobo,-68.083333,10.166667,1,desktop
+Carinthia,13.8333333,46.7500001,1,desktop
+Catalonia,1.5745043,41.8523094,1,mobile
+Celje,15.2659932,46.2309234,1,desktop
+Center District,34.9167435768,32.08511765,1,mobile
+Central Denmark Region,9.23462700705,56.2356848,1,mobile
+Central Kalimantan,113.2903307,-1.499583,1,desktop
+Central Visayas,123.996810486,10.30231135,1,mobile
+Chernivets'ka oblast,23.9948327,49.8394407,1,desktop
+Chhattisgarh,81.8096116,21.4895849,1,mobile
+Chongqing,106.5492822,29.5585712,1,desktop
+Chubut Province,-64.2583998,-31.6429494,1,desktop
+Coimbra District,6.13498663318,49.60293755,1,desktop
+Coimbra District,6.13498663318,49.60293755,1,mobile
+Colorado,-105.6077167,38.7251776,1,tablet
+Community of Madrid,-3.77156267545,40.5248319,1,mobile
+Cordillera Administrative Region,121.075267665,17.359748,1,desktop
+Cordillera Administrative Region,121.075267665,17.359748,1,mobile
+Cordoba,-4.7795023,37.8844874,1,desktop
+Cork,-8.4705806,51.8979282,1,desktop
+Covasna County,25.9634201916,45.89930735,1,desktop
+Crete,-87.6314312,41.4444791,1,desktop
+Crimea,-0.1327054,51.5073608,1,desktop
+Dalarna County,14.3585753,60.9508589,1,tablet
+Delhi,77.2272603,28.6572914,1,tablet
+Delta,-108.0689583,38.7422063,1,desktop
+District of Columbia,-77.0366456,38.8949549,1,tablet
+Durango,-104.833333,24.833333,1,desktop
+East Kalimantan,116.2419977,0.7884397,1,desktop
+Eastern Province,81.5954591948,7.7475,1,mobile
+Eastern Visayas,124.997556122,11.32782725,1,desktop
+Edirne,26.5587225,41.6759327,1,desktop
+Ehime Prefecture,132.8185275,33.6013646,1,desktop
+Emilia-Romagna,11.039437,44.525696,1,mobile
+Extremadura,-6.1529891,39.1748426,1,mobile
+Faiyum Governorate,30.6196433757,29.340737,1,desktop
+Federal District,-99.1517009708,19.32055625,1,tablet
+Federation of Bosnia and Herzegovina,17.5501751459,43.9170779,1,mobile
+Fingal,-6.22453399794,53.4937362,1,tablet
+Finnmark,24.0465695,69.4813305,1,desktop
+Franche-Comte,6.2097185,47.4961233,1,desktop
+Free State,26.4978933,-28.7853618,1,desktop
+Fukuoka Prefecture,130.6180016,33.6251241,1,desktop
+Gabrovo,25.2116445,42.9350091,1,desktop
+Gauteng,28.0813105,-25.9363439,1,tablet
+Giza Governorate,29.4188201083,29.05403575,1,desktop
+Gorj County,23.3305819052,44.9610717,1,desktop
+Gotland County,18.5014698,57.5012301,1,desktop
+Grisons,9.6027351,46.6960615,1,desktop
+Gyeongsangnam-do,128.3301115,35.375617,1,mobile
+Hai Duong,113.543211867,22.18930785,1,desktop
+Haifa District,34.9850882301,32.62564005,1,mobile
+Hajdu-Bihar,21.4752281,47.4407848,1,desktop
+Halland County,0.1346836,50.9286852,1,mobile
+Hamburg,10.000654,53.5503414,1,mobile
+Haryana,76.0,29.0,1,mobile
+Henan,113.9999999,34.0000001,1,desktop
+Hesse,9.1909725,50.6118537,1,mobile
+Hidalgo,-99.0,20.5,1,desktop
+Ho Chi Minh,106.7017555,10.7758439,1,mobile
+Hsinchu County,121.0128333,24.8267,1,mobile
+Hubei,112.0,31.0,1,mobile
+Hunedoara County,22.9423025367,45.7883307,1,desktop
+Ilocos Region,120.470008559,17.200662,1,desktop
+Incheon,126.6057595,37.4966135,1,mobile
+Isfahan,51.6650002,32.6707877,1,desktop
+Isle of Man,-4.5591148,54.1936805,1,mobile
+Istanbul,28.9651646,41.0096334,1,mobile
+Istria County,28.7150033409,44.573155,1,desktop
+Ivano-Frankivs'ka oblast,24.5207477,48.7481718,1,desktop
+Ivanovo Oblast,41.4352137,56.9167446,1,desktop
+Izmir,27.144474,38.4153421,1,mobile
+Jalisco,-103.6666671,20.3333331,1,mobile
+Jammu and Kashmir,76.7972892,34.0476564,1,desktop
+Jamtland County,19.9315536,64.0236779,1,desktop
+Jasz-Nagykun-Szolnok,20.1947103,47.1754062,1,desktop
+Jeju-do,126.5626688,33.3940067,1,desktop
+Jerusalem District,35.0655313318,31.7427766,1,mobile
+Jiangxi,116.0,28.0,1,desktop
+Jonkoping County,14.1627579,57.7814709,1,mobile
+Kansas,-98.5821872,38.27312,1,tablet
+Karlovy Vary Region,12.8710769,50.2304694,1,desktop
+Kelantan,102.067895784,5.4022819,1,desktop
+Kerala,76.5119752,10.3529588,1,tablet
+Khon Kaen,102.683469579,16.3484688,1,mobile
+Khorasan,47.2656,35.7131,1,desktop
+Kildare,-6.8184174661,53.15436455,1,desktop
+Klaipeda County,21.2363843,55.7766339,1,desktop
+Kocaeli,29.9067888,40.7828,1,desktop
+Konya,32.4844015,37.8719963,1,desktop
+Kumamoto Prefecture,130.6341345,32.6450475,1,desktop
+La Rioja,-2.4674917,42.3285528,1,desktop
+La Rioja,-2.4674917,42.3285528,1,tablet
+Laane-Viru County,26.3099088208,59.4075666,1,desktop
+Lampang,99.5577296661,18.3540249,1,desktop
+Leiria District,-99.1302755,19.3747978,1,desktop
+Limassol,33.042341,34.6735637,1,mobile
+Limburg,5.86721779651,51.26441545,1,mobile
+Limburg,5.86721779651,51.26441545,1,tablet
+Limerick City,-8.6302084,52.6612577,1,desktop
+Lisbon,-9.1380056,38.7130574,1,mobile
+Lisbon,-9.1380056,38.7130574,1,tablet
+Ljubljana,14.5068921,46.049865,1,tablet
+Lovec,24.715431,43.1349971,1,desktop
+Lublin Voivodeship,22.7991176,50.976229,1,desktop
+Lucerne,8.3054682,47.0505452,1,desktop
+Luxembourg,6.1296751,49.8158683,1,desktop
+Maine,-68.8590201,45.709097,1,tablet
+Malacca,102.255926,2.1908178,1,desktop
+Manipur,93.9229386,24.7208818,1,desktop
+Manitoba,-97.0000001,55.0000001,1,mobile
+Manitoba,-97.0000001,55.0000001,1,tablet
+Maramures County,24.1966445112,47.67131815,1,desktop
+Maryland,-76.9382069,39.5162234,1,tablet
+Masovian Voivodeship,21.2073404,52.5461934,1,mobile
+Mayo,-135.8961421,63.5926909,1,desktop
+Meghalaya,91.2999102,25.5379432,1,desktop
+Metro Manila,121.039315543,14.5669327,1,tablet
+Mie Prefecture,136.5154489,34.7339685,1,desktop
+Minnesota,-94.6113288,45.9896587,1,tablet
+Miyagi Prefecture,141.0302855,38.359251,1,desktop
+Miyazaki Prefecture,131.294542,32.097681,1,desktop
+Mizoram,92.8687612,23.2146169,1,desktop
+More og Romsdal,7.4759426,62.4128392,1,desktop
+Moscow,37.6187042,55.7516335,1,mobile
+Mpumalanga,30.1500153,-26.276849,1,desktop
+Mures County,24.6254035724,46.606563,1,desktop
+Nagasaki Prefecture,129.7874339,33.1154683,1,desktop
+Nakhon Pathom,100.113005798,13.91363525,1,desktop
+Nara Prefecture,135.8816819,34.2963089,1,desktop
+New Brunswick,-66.75,46.5,1,mobile
+New Hampshire,-71.6553992,43.4849133,1,mobile
+New Mexico,-105.993007,34.5708167,1,tablet
+Nitra Region,18.0894593,48.31295,1,desktop
+Nizhny Novgorod Oblast,44.5855442,56.4601702,1,desktop
+Nord-Pas-de-Calais,2.7578982,50.4832487,1,tablet
+Norrbotten County,22.1560121,65.5838002,1,tablet
+North Brabant,5.0370354561,51.5259565,1,mobile
+North Sulawesi,124.090151,0.6555692,1,desktop
+North Sumatra,99.3812201,2.1923519,1,mobile
+North West,11.5270102892,64.574131,1,desktop
+North West,11.5270102892,64.574131,1,mobile
+Northern Cape,21.2051361,-29.573402,1,desktop
+Northern Mindanao,124.687196067,8.40488525,1,desktop
+Novo Mesto,15.1706364,45.800717,1,desktop
+Ogun State,3.8664232,7.3561579,1,desktop
+Okinawa Prefecture,127.542181303,26.58920965,1,desktop
+Olt County,24.46281894,44.29050505,1,desktop
+Omsk Oblast,73.5099936,56.0935263,1,desktop
+Oppland,9.4789009,61.3440814,1,desktop
+Ostfold,11.3584009,59.3736144,1,desktop
+Osun,4.4978307,7.5484047,1,desktop
+Osun,4.4978307,7.5484047,1,mobile
+Otago,170.177891809,-45.39750515,1,desktop
+Pahang,102.5870951,3.6278466,1,desktop
+Pahang,102.5870951,3.6278466,1,tablet
+Pardubice Region,15.7765409,50.0410187,1,desktop
+Parnu County,24.5200466,58.3800572,1,mobile
+Pathum Thani,100.627654758,14.09527305,1,desktop
+Pazardzik,24.3324797,42.1889295,1,desktop
+Penang,100.2559077,5.4065013,1,mobile
+Penza Oblast,44.7879181,53.1655415,1,desktop
+Phuket,98.3221263722,7.715984,1,desktop
+Piura,-80.333333,-5.0,1,desktop
+Prachuap Khiri Khan,99.8385145402,11.7893735,1,desktop
+Prahova,26.029213496,45.12515965,1,desktop
+Prahova,26.029213496,45.12515965,1,mobile
+Primorsky Krai,134.726645,45.0819456,1,desktop
+Prince Edward Island,-63.45941,46.3202067,1,mobile
+Province of Brescia,-77.1332846,-12.0490109,1,desktop
+Province of Namur,4.8418926,50.4613368,1,tablet
+Putrajaya,101.700461161,2.9295026,1,desktop
+Queretaro,-99.84756,20.8542575,1,desktop
+Rajasthan,73.7684549,26.8105777,1,mobile
+Rayong,101.396262197,12.73430345,1,desktop
+Region Zealand,11.6866635003,55.48635875,1,mobile
+Region Zealand,11.6866635003,55.48635875,1,tablet
+Rhode Island,-71.5992372,41.7962409,1,mobile
+Risaralda,-75.9842236,5.2102948,1,desktop
+Rivers,6.8604088,4.8416028,1,desktop
+Riyadh Province,46.040556,24.063056,1,mobile
+Rogaland,5.9357964,59.1585024,1,tablet
+Ryazan Oblast,40.5705246,54.4226732,1,desktop
+Saare County,22.4848672685,58.2057461,1,desktop
+Saga Prefecture,130.1296585,33.2185408,1,mobile
+Sakarya,30.481606,40.7731834,1,desktop
+Salaj,23.0145201224,47.1546219,1,desktop
+Samara Oblast,50.4785577,53.2852213,1,desktop
+San Luis Potosi,-100.5000001,22.5000001,1,mobile
+Santiago Metropolitan Region,121.0009413,14.546308,1,mobile
+Saraburi,100.891872586,14.6220052,1,desktop
+Schleswig-Holstein,9.8220089,54.1853998,1,mobile
+Seoul,126.9782914,37.5666791,1,mobile
+Seoul,126.9782914,37.5666791,1,tablet
+Sevastopol' city,33.5220842,44.6054434,1,desktop
+Shaanxi,109.0,36.0,1,desktop
+Si Sa Ket,104.332348,15.116794,1,desktop
+Siauliai County,23.322513,55.8192573,1,desktop
+Sichuan,102.4999999,30.5000001,1,desktop
+Silesian Voivodeship,19.2343995,50.5687422,1,mobile
+Sinaloa,-107.5000001,25.0000001,1,desktop
+Sindh,69.0,25.5,1,tablet
+Sivas,37.013697,39.749781,1,desktop
+Sodermanland County,17.5398961764,58.95868325,1,desktop
+Songkhla,100.580510926,7.1418047,1,desktop
+Sor-Trondelag,10.4810573,63.1275124,1,mobile
+Souss-Massa-Draa,-7.6856578,29.3709945,1,desktop
+South Australia,135.6301212,-30.5343665,1,tablet
+South Dakota,-100.348761,44.6471761,1,tablet
+South Holland,4.39281137854,51.98814685,1,tablet
+Special Region of Yogyakarta,110.4021745,-7.8697613,1,mobile
+St Helier,-2.1098279,49.1855551,1,desktop
+Stara Zagora,25.5615093,42.4607734,1,desktop
+State of Para,-77.9897375,43.2575597,1,desktop
+State of Paraiba,-34.8808001555,-7.12179605,1,desktop
+Suceava County,25.8173527992,47.5327387,1,desktop
+Suez Governorate,32.1490967,29.4165427,1,desktop
+Sverdlovsk Oblast,61.8021546,58.6414755,1,desktop
+Szabolcs-Szatmar-Bereg,21.4954557,48.1718359,1,desktop
+Taipei City,121.5637,25.0375167,1,mobile
+Tamil Nadu,78.3665347,10.9094334,1,tablet
+Tasmania,146.6366887,-42.035067,1,mobile
+Tekirdag,27.5158544,40.9795272,1,desktop
+Telangana,79.1151663,17.8495919,1,tablet
+Telsiai County,22.0677085,56.0643536,1,desktop
+Terengganu,102.981424126,4.8906412,1,desktop
+Thua Thien Hue,107.5563708,16.3375374,1,desktop
+Tianjin,117.1980785,39.1235635,1,desktop
+Tianjin,117.1980785,39.1235635,1,mobile
+Toyama Prefecture,122.9991784,24.4682684,1,desktop
+Trencin Region,18.063143669,48.8983802,1,desktop
+Tulcea County,29.068717509,45.0046615,1,desktop
+Tver Oblast,35.1744428,57.1134475,1,desktop
+Umbria,12.490236,42.965916,1,desktop
+Upper Austria,14.0,48.25,1,mobile
+Usti nad Labem Region,14.0408798,50.6684322,1,desktop
+Uthai Thani,99.5530602037,15.3598637,1,desktop
+Utrecht,5.1276803155,52.08095165,1,mobile
+Valais,7.6605757,46.2303063,1,desktop
+Valencian Community,-0.7654406,39.6819591,1,tablet
+Valle del Cauca,-76.5000086,3.7500086,1,desktop
+Vas County,21.6159187,63.0957722,1,desktop
+Vasternorrland County,17.9235996382,62.64526165,1,mobile
+Veneto,11.8665254,45.6476663,1,mobile
+Vest-Agder,7.069215,58.7111865,1,desktop
+Veszprem,17.9116007,47.0916334,1,desktop
+Vienna,16.3725042,48.2083537,1,tablet
+Vinh Phuc Province,105.5008797,21.392903,1,desktop
+Vladimir Oblast,40.6561633,56.0503336,1,desktop
+Volgograd Oblast,44.2903582,49.6048339,1,desktop
+Waterford,-7.10197872853,52.24515735,1,desktop
+Wellington,174.7772239,-41.2887639,1,desktop
+West Bengal,87.6855882,22.9964948,1,tablet
+West Java,107.6404716,-6.8891692,1,mobile
+Western Australia,121.0187246,-25.2303005,1,tablet
+Western Finland,23.6570856446,62.440588,1,desktop
+Wicklow,-6.0414184,52.9802376,1,desktop
+Wyoming,-107.5685348,43.1700264,1,mobile
+Yazd,54.3502146,31.8936189,1,desktop
+Zabaykalsky Krai,115.956325,52.248521,1,desktop
+Zamboanga Peninsula,122.756004766,7.77301775,1,desktop
+Zeeland,3.78266557199,51.49154255,1,desktop
+Zhejiang,119.9999999,29.0000001,1,desktop
+Zhytomyrs'ka oblast,30.3767487,50.4987266,1,desktop
+Zurich,8.5404434,47.3685586,1,tablet
